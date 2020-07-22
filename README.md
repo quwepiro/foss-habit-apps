@@ -7,6 +7,18 @@
     </tr>
     <tr>
         <td>
+            <a href="https://www.f-droid.org/app/org.isoron.uhabits">Loop Habit Tracker</a><br>
+            by <a href="https://github.com/iSoron">Álinson S. Xavier</a><br><br>
+            <a href="https://github.com/iSoron/uhabits">GitHub</a>
+        </td>
+        <td>
+            <img src="https://raw.githubusercontent.com/iSoron/uhabits/dev/screenshots/uhabits1_th.png" height="500">
+            <img src="https://raw.githubusercontent.com/iSoron/uhabits/dev/screenshots/uhabits2_th.png" height="500">
+            <img src="https://raw.githubusercontent.com/iSoron/uhabits/dev/screenshots/uhabits3_th.png" height="500">
+        </td>
+    </tr>
+    <tr>
+        <td>
             Trinspect<br>
             by <a href="https://github.com/celestialphineas">Celestial Phineas</a><br><br>
             <a href="https://github.com/quwepiro/Trinspect">GitHub</a>
