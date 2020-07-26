@@ -41,19 +41,22 @@
     </tr>
     <tr>
         <td>
+            Henry's Habit App<br>
+            by <a href="https://github.com/HenryQuan">Yiheng</a><br><br>
+            <a href="https://github.com/HenryQuan/HabitApp">GitHub</a>
+        </td>
+        <td>
+            <img src="https://github.com/HenryQuan/HabitApp/raw/master/docs/logo/android.png" height="100">
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://play.google.com/store/apps/details?id=com.dwett.habits&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Habits</a><br>
             by <a href="https://github.com/dwetterau/">David Wetterau</a><br><br>
             <a href="https://github.com/dwetterau/habits">GitHub</a>
         </td>
         <td>
             <img src="https://raw.githubusercontent.com/dwetterau/Habits/master/screenshot.png" height="500">
-        </td>
-    </tr>
-    <tr>
-        <td>
-            HabitApp<br>
-            by <a href="https://github.com/HenryQuan">Yiheng</a><br><br>
-            <a href="https://github.com/HenryQuan/HabitApp">GitHub</a>
         </td>
     </tr>
     <tr>
